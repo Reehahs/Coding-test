@@ -27,6 +27,8 @@
 #I decided to parse by new line because I am a bit confused as to how we are meant to recieve Input  
 #The input is also assumed to be always formatted like "L1, address, date" etc... I did not implement input checking as I thought it to be unnessecary  
 
+#AFTER PUTTING INPUT PRESS ENTER TWICE TO TEST
+
 #The way I will approach this is 
 #Step 1, Parse input
 #Step 2) Loop through all objects while going through the input. 
